@@ -23,5 +23,5 @@ If you have any questions or need further assistance, feel free to ask. Rock on!
 
 URL: https://nolliechytw.github.io/PlayGround/<br/>
 Preview:
-https://github.com/nolliechyTW/PlayGround/assets/106467497/e1b1fad7-f880-4cd4-b1a5-62f5f01dcf77
+![gif](https://github.com/nolliechyTW/PlayGround/assets/106467497/fb1946fe-73fa-400a-ac96-ba9015c0b7f0)
 
