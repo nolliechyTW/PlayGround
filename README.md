@@ -1,5 +1,5 @@
 # PlayGround
-A PlayGround webpage with two game options built by HTML, CSS, and javascript. </br>
+A PlayGround webpage with two game options built by HTML, CSS, and JavaScript. </br>
 There are two games in the PlayGround, one is "Let's Dice" and the other is "Drum Roll".</br>
 
 ## Games
